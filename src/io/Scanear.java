@@ -1,4 +1,4 @@
-package src;
+package src.io;
 import java.util.Scanner;
 
 public class Scanear {
